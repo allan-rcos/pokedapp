@@ -1,0 +1,7 @@
+{
+  "name": "pokedapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
