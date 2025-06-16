@@ -1,0 +1,19 @@
+{
+  "name": "pokedapp",
+  "version": "0.0.1",
+  "description": "A Pokedex App for mobile with PokeAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allan-rcos/pokedapp.git"
+  },
+  "author": "Ricardo Állan Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allan-rcos/pokedapp/issues"
+  },
+  "homepage": "https://github.com/allan-rcos/pokedapp#readme"
+}
